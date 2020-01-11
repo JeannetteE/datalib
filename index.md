@@ -1,7 +1,5 @@
 {% include navigation.html %}
 
-[about](https://jeannettee.github.io/datalib/about) | [contact](mailto:jeek@dtu.dk) | 
-
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/JeannetteE/datalib/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
