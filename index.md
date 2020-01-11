@@ -1,3 +1,5 @@
+{% include navigation.html %}
+
 [about](https://jeannettee.github.io/datalib/about) | [contact](mailto:jeek@dtu.dk) | 
 
 ## Welcome to GitHub Pages
