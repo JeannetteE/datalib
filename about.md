@@ -1,3 +1,5 @@
+{% include navigation.html %}
+
 ## What is this all about?
 
 * would it not be great to share practical Data Science cases with one another?
